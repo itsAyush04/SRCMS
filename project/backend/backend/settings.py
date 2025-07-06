@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 import os
 from dotenv import load_dotenv
 
-load_dotenv()  # This reads from the .env file # Added ML environment config
+load_dotenv()  # This reads from the .env file # Added ML environment 
 
 from pathlib import Path
 
